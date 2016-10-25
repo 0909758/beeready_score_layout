@@ -10,9 +10,14 @@
 <body>
     <div id="background">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-12">
-                    <canvas id="video"></canvas>
+            <div id="content">
+                <div class="col-xs-12" id="title">
+                    Zonnebloem
+                </div>
+                <div class="col-xs-12" id="image">
+                </div>
+                <div class="col-xs-12" id="score">
+                    5 Punten
                 </div>
             </div>
             <div class="row">
@@ -24,6 +29,5 @@
             </div>
         </div>
     </div>
-
 </body>
 </html>
