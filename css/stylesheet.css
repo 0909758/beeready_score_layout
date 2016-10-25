@@ -46,11 +46,14 @@ body{
 }
 
 #scanButton{
-    background: url("../images/glass2.png");
+    background: url("../images/scanButton2.png");
     background-size: cover;
     width: 12vh;
     height: 12vh;
-    border-radius: 50%;
+    border: none;
     margin: 2vh;
     outline: 0;
+}
+
+#scanButton:active{
 }

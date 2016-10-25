@@ -23,7 +23,6 @@
             <div class="row">
                 <div class="col-xs-4 col-xs-offset-4">
                     <button id="scanButton">
-                        <div id="insideButton"></div>
                     </button>
                 </div>
             </div>
